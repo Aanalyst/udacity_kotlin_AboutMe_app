@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ahmed Amin</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">My name is Ahmed amin, and experienced technical support contractor with years of experience in sales and customer care. Driven by a need to give a hundred and ten percent at all times.</string>
+    <string name="C_v">Work Experience
+        \n
+\nTech Support Contractor
+\nSupport your app -Wilmington, DE
+\nOctober 2021 - Current.
+\nAssisting customers with technical issues on a number of mobile applications..
+        \n
+\nDebt Analyst
+\nFreedom Financial Aid - Los Angeles, CA
+\nSeptember 2020 to november 2021
+\nAssisting graduates with paying off their student loan debt.
+        \n
+\nAssistant Manager Of Franchise Development
+\nRealty Executives
+\nFebruary 2020 to August 2020
+\nSold and managed realty executives franchises with all of its tools and knowledge.
+
+        \n
+\nCustomer Care Agent
+\nVSSE (Vodafone U.K) - Cairo
+\nSeptember 2019 to November 2019
+\nBilling and complaints
+        \n
+\nSenior Sales Associate
+\nADT Security Services - Montréal, QC
+\nJanuary 2018 to September 2019
+\nLead generation, Inbound sales calls, Outbound sales calls, Fire phone Training
+\ninstructor. Reference:
+        \n
+        \n
+\nEducation
+            \n
+\nA.S engineering
+\nNorthern virginia community college - Annandale, VA
+\nSeptember 2012 to July 2014
+            \n
+\nHigh school Diploma
+\nBryant High school - Fairfax, VA
+            \n
+\nLanguages
+            \n
+\n• English - native speaker
+\n• Arabic - native speaker
+            \n
+\nCertifications and Licenses
+            \n
+\nGoogle Fundamentals of digital marketing certificate
+\nJune 2020
+\n• Certificate ID: 8D2 ELA WBH
+            \n
+\nGoogle search Ads 360 certificate
+\nJune 2020
+\n• Completion ID: 53575058
+            \n
+\nGoogle Ads video certificate
+\nJune 2020
+\n• Completion ID: 53621047
+            \n
+\nUdacity Advanced Data Analytics Nanodegree (Data_Analysis|visualization)
+\nJanuary 2022
+\nUdacity.com/FRLHALWU
+            \n
+    \n</string>
+    <string name="catch_name">May I know Your Name?</string>
+    <string name="Done_for_button">Done!</string>
+    <string name="greetings">Hello There!</string>
+
+</resources>
